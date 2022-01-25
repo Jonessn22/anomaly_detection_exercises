@@ -34,7 +34,7 @@ z. Miscellaneous
     - Visualize
     - Z score (normally distributed data)
     - IQR method
-- "Black Swan" events[^1]
+- "Black Swan" events[1]
     - unexpected
     - severe consequences
     - has a major impact
@@ -45,7 +45,7 @@ z. Miscellaneous
     - all of the above, except it was predicted
         - COVID Pandemic
 - Grey Swan Event
-    - Somewhat surprising
+    - Somewhat surprising, but not completely
     - Ambiguous impact (unclear what it will mean in terms of impact)
         - Brexit
         - Trump's election
